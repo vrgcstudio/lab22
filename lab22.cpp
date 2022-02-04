@@ -1,4 +1,4 @@
-// Please include header (lab22.h) here.
+#include "lab22.h"
 
 int main(){
 	srand(time(0));
